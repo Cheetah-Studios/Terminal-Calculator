@@ -1,4 +1,5 @@
-Terminal Calculator or T-C
+Terminal Calculator or T-C.
+
 T-C is short for Terminal Calculator
 
  A simple terminal-based calculator for Linux.
