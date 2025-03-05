@@ -18,4 +18,13 @@ Installation
  It should be in your Downloads folder.
  Click Install Package in the package manager when prompted.
  Once installed, open a terminal and run the following command: t-c
- If you want to know where it is installed, it will be located at /usr/local/bin/t-c.
+
+Installation using the terminal
+ 
+1 Download the t-c_1.0_all.deb file from the release section,
+2 Navigate to the directory where the .deb file is located,
+  For example, if the file is in your Downloads folder: cd ~/Downloads
+3 Install the .deb package: sudo dpkg -i t-c_1.0_all.deb
+5 Once installed, you can run it using: t-c
+
+If you want to know where it is installed, it will be located at /usr/local/bin/t-c.
