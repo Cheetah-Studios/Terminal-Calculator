@@ -30,3 +30,5 @@ Installation using the terminal
 5 Once installed, you can run it using: t-c
 
 If you want to know where it is installed, it will be located at /usr/local/bin/t-c.
+
+note you may need to install ​python3​.
